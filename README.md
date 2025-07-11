@@ -1,16 +1,11 @@
-## Hi there 👋
+### Hi, I'm Sri Jahnavi!
+<!-- my self -->
 
-<!--
-**srijahnaviadusumilli/srijahnaviadusumilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Master's student sharing about my journey and learnings in health tech<br/>
+💻 studying Health Informatics at Indiana University, Indianapolis<br/>
+👩‍🎓 Doctor of Pharmacy graduate from Shri Vishnu College of Pharmacy, India<br/>
+📊 Currently learning about data analytics and visualization<br/>
+📋 Interested in clinical decision support, EHRs & digital health<br/>
+👩‍💻 Exploring AI in healthcare & patient-centered apps<br/>
+🤝 Open to collaboration in health tech & informatics projects<br/>
+📫 How to reach me: srijahnavi.adusumilli@gmail.com<br/>
